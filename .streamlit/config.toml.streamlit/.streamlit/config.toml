@@ -1,0 +1,6 @@
+Enter file contents here
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = false
