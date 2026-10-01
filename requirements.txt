@@ -1,0 +1,7 @@
+# 缠论分析网页版依赖（Streamlit Community Cloud 兼容）
+streamlit>=1.36
+streamlit-echarts>=0.4.0
+czsc==0.9.51
+akshare>=1.12.0
+yfinance>=0.2.0
+pandas>=2.0.0
