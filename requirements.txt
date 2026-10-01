@@ -1,4 +1,3 @@
-Enter file contents here
 # chan analysis web dependencies
 streamlit>=1.36
 streamlit-echarts>=0.4.0
