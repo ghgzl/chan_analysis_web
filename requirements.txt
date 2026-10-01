@@ -1,4 +1,5 @@
-# 缠论分析网页版依赖（Streamlit Community Cloud 兼容）
+Enter file contents here
+# chan analysis web dependencies
 streamlit>=1.36
 streamlit-echarts>=0.4.0
 czsc==0.9.51
